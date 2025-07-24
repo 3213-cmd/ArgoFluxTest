@@ -1,0 +1,20 @@
+Welcome to the Testing Page!
+
+This is a simple text file that you can edit to change the content displayed on the testing page.
+
+🚀 Features:
+- Easy to edit content
+- Real-time updates (just refresh the page)
+- Supports multiple lines
+- Perfect for testing deployments
+
+🔧 Instructions:
+Edit this file (content.txt) to see your changes reflected on the /testing page.
+
+You can add:
+- Bullet points
+- Multiple paragraphs
+- Special characters: ★ ♦ ♠ ♣
+- Numbers: 123, 456, 789
+
+Current timestamp: This file was created for ArgoFlux testing purposes.
