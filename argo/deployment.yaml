@@ -16,6 +16,7 @@ spec:
       containers:
       - name: sampleserver
         image: ghcr.io/3213-cmd/argofluxtest:latest
+        imagePullPolicy: Always
         ports:
         - containerPort: 3000
         env:
